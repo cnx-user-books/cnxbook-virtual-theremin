@@ -1,0 +1,19 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en-us">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11605</md:content-id>
+    <md:title>Virtual Theremin</md:title>
+    <md:language>en-us</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>8603228b-345a-4272-a64e-76354b8c8789</md:uuid>
+<md:slug>virtual-theremin</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m48239"/>
+    <col:module document="m48249"/>
+    <col:module document="m48240"/>
+    <col:module document="m48283"/>
+    <col:module document="m48254"/>
+    <col:module document="m48439"/>
+    <col:module document="m48237"/>
+  </col:content>
+</col:collection>
